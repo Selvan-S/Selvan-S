@@ -1,6 +1,6 @@
 -Hi, I’m @Selvan-S
 -I’m interested in Full stack developer
--I’m currently learning HTML, CSS and JavaScript through the projects that i'm working on!  
+-I’m currently learning MERN Stack through the projects that I'm working on!  
 
 
 <!---
